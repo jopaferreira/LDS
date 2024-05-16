@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2º Semestre\\Laboratório de Desenvolvimento de Software\\C#\\Testes\\Teste1\\Projeto_APIFirst_V0.01\\Projeto_APIFirst_V0.01.csproj": {}
+    "C:\\Users\\jopaf\\Source\\Repos\\jopaferreira\\LDS-APIfirst-Equipa5\\Projeto_APIFirst_V0.01\\Projeto_APIFirst_V0.01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2º Semestre\\Laboratório de Desenvolvimento de Software\\C#\\Testes\\Teste1\\Projeto_APIFirst_V0.01\\Projeto_APIFirst_V0.01.csproj": {
+    "C:\\Users\\jopaf\\Source\\Repos\\jopaferreira\\LDS-APIfirst-Equipa5\\Projeto_APIFirst_V0.01\\Projeto_APIFirst_V0.01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2º Semestre\\Laboratório de Desenvolvimento de Software\\C#\\Testes\\Teste1\\Projeto_APIFirst_V0.01\\Projeto_APIFirst_V0.01.csproj",
+        "projectUniqueName": "C:\\Users\\jopaf\\Source\\Repos\\jopaferreira\\LDS-APIfirst-Equipa5\\Projeto_APIFirst_V0.01\\Projeto_APIFirst_V0.01.csproj",
         "projectName": "Projeto_APIFirst_V0.01",
-        "projectPath": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2º Semestre\\Laboratório de Desenvolvimento de Software\\C#\\Testes\\Teste1\\Projeto_APIFirst_V0.01\\Projeto_APIFirst_V0.01.csproj",
+        "projectPath": "C:\\Users\\jopaf\\Source\\Repos\\jopaferreira\\LDS-APIfirst-Equipa5\\Projeto_APIFirst_V0.01\\Projeto_APIFirst_V0.01.csproj",
         "packagesPath": "C:\\Users\\jopaf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2º Semestre\\Laboratório de Desenvolvimento de Software\\C#\\Testes\\Teste1\\Projeto_APIFirst_V0.01\\obj\\",
+        "outputPath": "C:\\Users\\jopaf\\Source\\Repos\\jopaferreira\\LDS-APIfirst-Equipa5\\Projeto_APIFirst_V0.01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

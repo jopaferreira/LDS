@@ -34,3 +34,13 @@ C:\Users\jopaf\OneDrive - UAb\UAb\Ano Letivo 2023-24\2º Semestre\Laboratório d
 C:\Users\jopaf\OneDrive - UAb\UAb\Ano Letivo 2023-24\2º Semestre\Laboratório de Desenvolvimento de Software\C#\Testes\Teste1\Projeto_APIFirst_V0.01\obj\Debug\net8.0\Projeto_APIFirst_V0.01.pdb
 C:\Users\jopaf\OneDrive - UAb\UAb\Ano Letivo 2023-24\2º Semestre\Laboratório de Desenvolvimento de Software\C#\Testes\Teste1\Projeto_APIFirst_V0.01\obj\Debug\net8.0\Projeto_APIFirst_V0.01.genruntimeconfig.cache
 C:\Users\jopaf\OneDrive - UAb\UAb\Ano Letivo 2023-24\2º Semestre\Laboratório de Desenvolvimento de Software\C#\Testes\Teste1\Projeto_APIFirst_V0.01\obj\Debug\net8.0\ref\Projeto_APIFirst_V0.01.dll
+C:\Users\jopaf\Source\Repos\jopaferreira\LDS-APIfirst-Equipa5\Projeto_APIFirst_V0.01\obj\Debug\net8.0\Projeto_APIFirst_V0.01.csproj.AssemblyReference.cache
+C:\Users\jopaf\Source\Repos\jopaferreira\LDS-APIfirst-Equipa5\Projeto_APIFirst_V0.01\obj\Debug\net8.0\Projeto_APIFirst_V0.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopaf\Source\Repos\jopaferreira\LDS-APIfirst-Equipa5\Projeto_APIFirst_V0.01\obj\Debug\net8.0\Projeto_APIFirst_V0.01.AssemblyInfoInputs.cache
+C:\Users\jopaf\Source\Repos\jopaferreira\LDS-APIfirst-Equipa5\Projeto_APIFirst_V0.01\obj\Debug\net8.0\Projeto_APIFirst_V0.01.AssemblyInfo.cs
+C:\Users\jopaf\Source\Repos\jopaferreira\LDS-APIfirst-Equipa5\Projeto_APIFirst_V0.01\obj\Debug\net8.0\Projeto_APIFirst_V0.01.csproj.CoreCompileInputs.cache
+C:\Users\jopaf\Source\Repos\jopaferreira\LDS-APIfirst-Equipa5\Projeto_APIFirst_V0.01\obj\Debug\net8.0\Projeto_APIFirst_V0.01.sourcelink.json
+C:\Users\jopaf\Source\Repos\jopaferreira\LDS-APIfirst-Equipa5\Projeto_APIFirst_V0.01\obj\Debug\net8.0\Projeto_APIFirst_V0.01.dll
+C:\Users\jopaf\Source\Repos\jopaferreira\LDS-APIfirst-Equipa5\Projeto_APIFirst_V0.01\obj\Debug\net8.0\refint\Projeto_APIFirst_V0.01.dll
+C:\Users\jopaf\Source\Repos\jopaferreira\LDS-APIfirst-Equipa5\Projeto_APIFirst_V0.01\obj\Debug\net8.0\Projeto_APIFirst_V0.01.pdb
+C:\Users\jopaf\Source\Repos\jopaferreira\LDS-APIfirst-Equipa5\Projeto_APIFirst_V0.01\obj\Debug\net8.0\Projeto_APIFirst_V0.01.csproj.ResolveComReference.cache
