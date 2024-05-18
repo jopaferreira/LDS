@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Projeto_APIFirst_V0.01")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("APIFirstV1.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4cabd2cd95e2e064a416f87afe00636cced209a")]
-[assembly: System.Reflection.AssemblyProductAttribute("Projeto_APIFirst_V0.01")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Projeto_APIFirst_V0.01")]
+[assembly: System.Reflection.AssemblyProductAttribute("APIFirstV1.0")]
+[assembly: System.Reflection.AssemblyTitleAttribute("APIFirstV1.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
