@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jopaf\\source\\repos\\jopaferreira\\LDS-APIfirst-Equipa5\\",
+  "WorkspaceRootPath": "C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jopaf\\source\\repos\\jopaferreira\\LDS-APIfirst-Equipa5\\Projeto_APIFirst_V0.01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projeto_APIFirst_V0.01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIFirstV1.0\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIFirstV1.0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\Program.cs",
+              "RelativeDocumentMoniker": "APIFirstV1.0\\Program.cs",
+              "ToolTip": "C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\Program.cs",
+              "RelativeToolTip": "APIFirstV1.0\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:44:40.258Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jopaf\\source\\repos\\jopaferreira\\LDS-APIfirst-Equipa5\\Projeto_APIFirst_V0.01\\Program.cs",
-              "RelativeDocumentMoniker": "Projeto_APIFirst_V0.01\\Program.cs",
-              "ToolTip": "C:\\Users\\jopaf\\source\\repos\\jopaferreira\\LDS-APIfirst-Equipa5\\Projeto_APIFirst_V0.01\\Program.cs",
-              "RelativeToolTip": "Projeto_APIFirst_V0.01\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T22:57:17.677Z",
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\README.txt",
+              "RelativeDocumentMoniker": "APIFirstV1.0\\README.txt",
+              "ToolTip": "C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\README.txt",
+              "RelativeToolTip": "APIFirstV1.0\\README.txt",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-18T23:44:39.105Z",
               "EditorCaption": ""
             }
           ]

@@ -36,3 +36,4 @@ e salvá-lo no caminho especificado.
 O usuário é notificado sobre a conclusão: A interface gráfica exibe uma mensagem indicando que o relatório foi gerado com sucesso.
 Dessa forma, o padrão MVC é aplicado para separar as responsabilidades e tornar o código mais modular e fácil de manter.
 
+VERIFICAR!

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OZlPiV65xUQ/rTRdANOf0rwTEc1aEv9tynwkRn1jGUcDK9p8ytWPojfSFaH1T4qgh6PxdjFLzWPJUSWWEXd36Q==",
+  "dgSpecHash": "LOqxweZRDCOKtMWe1ZPzSSYzm2vjVpGMQ2eckCXkbUCIIQdx+Pwrds0vSXW3Q7QhQhDnqUzDEdciU40hDIjHwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2º Semestre\\Laboratório de Desenvolvimento de Software\\Equipa 5\\VS\\WinFormsApp3\\APIFirstV1.0.csproj",
+  "projectFilePath": "C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\APIFirstV1.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jopaf\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\jopaf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
