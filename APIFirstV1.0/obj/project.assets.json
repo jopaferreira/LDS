@@ -226,7 +226,7 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "PDFsharp/6.1.0-preview-3": {
+      "PDFsharp/6.0.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.Logging": "6.0.0",
@@ -653,10 +653,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "PDFsharp/6.1.0-preview-3": {
-      "sha512": "xV5GHfvaOJmwtn64mMbXxO6IGvGZnavaqBYo8aDLGKzdaw2jQDCtDJZkqx/j3KY8zUAxu6MT353wpBd0Ueex8w==",
+    "PDFsharp/6.0.0": {
+      "sha512": "1Oy8i7FE37pazovE8lL7Vvxm6SL+v0LE7AxIruLCyq7hBOM4gmUcm1Rtw3T89t5+zYaNFrXK5+8+lYc4J1ybjg==",
       "type": "package",
-      "path": "pdfsharp/6.1.0-preview-3",
+      "path": "pdfsharp/6.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -681,26 +681,7 @@
         "lib/net6.0/PdfSharp.xml",
         "lib/net6.0/de/PdfSharp.Charting.resources.dll",
         "lib/net6.0/de/PdfSharp.resources.dll",
-        "lib/netstandard2.0/PdfSharp.Charting.dll",
-        "lib/netstandard2.0/PdfSharp.Charting.pdb",
-        "lib/netstandard2.0/PdfSharp.Charting.xml",
-        "lib/netstandard2.0/PdfSharp.Quality.dll",
-        "lib/netstandard2.0/PdfSharp.Quality.pdb",
-        "lib/netstandard2.0/PdfSharp.Quality.xml",
-        "lib/netstandard2.0/PdfSharp.Snippets.dll",
-        "lib/netstandard2.0/PdfSharp.Snippets.pdb",
-        "lib/netstandard2.0/PdfSharp.System.dll",
-        "lib/netstandard2.0/PdfSharp.System.pdb",
-        "lib/netstandard2.0/PdfSharp.System.xml",
-        "lib/netstandard2.0/PdfSharp.WPFonts.dll",
-        "lib/netstandard2.0/PdfSharp.WPFonts.pdb",
-        "lib/netstandard2.0/PdfSharp.WPFonts.xml",
-        "lib/netstandard2.0/PdfSharp.dll",
-        "lib/netstandard2.0/PdfSharp.pdb",
-        "lib/netstandard2.0/PdfSharp.xml",
-        "lib/netstandard2.0/de/PdfSharp.Charting.resources.dll",
-        "lib/netstandard2.0/de/PdfSharp.resources.dll",
-        "pdfsharp.6.1.0-preview-3.nupkg.sha512",
+        "pdfsharp.6.0.0.nupkg.sha512",
         "pdfsharp.nuspec"
       ]
     },
@@ -838,7 +819,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "PDFsharp >= 6.1.0-preview-3"
+      "PDFsharp >= 6.0.0"
     ]
   },
   "packageFolders": {
@@ -848,11 +829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\APIFirstV1.0.csproj",
-      "projectName": "APIFirstV1.0",
-      "projectPath": "C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\APIFirstV1.0.csproj",
+      "projectUniqueName": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2º Semestre\\Laboratório de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\APIFirst3.0.csproj",
+      "projectName": "APIFirst3.0",
+      "projectPath": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2º Semestre\\Laboratório de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\APIFirst3.0.csproj",
       "packagesPath": "C:\\Users\\jopaf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\obj\\",
+      "outputPath": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2º Semestre\\Laboratório de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -892,7 +873,7 @@
         "dependencies": {
           "PDFsharp": {
             "target": "Package",
-            "version": "[6.1.0-preview-3, )"
+            "version": "[6.0.0, )"
           }
         },
         "imports": [

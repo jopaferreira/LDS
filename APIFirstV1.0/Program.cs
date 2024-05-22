@@ -1,9 +1,9 @@
 using System;
 using System.Windows.Forms;
-using PDFGeneratorApp.Views;
+using APIFirst.Views;
 using PdfSharp.Fonts;
 
-namespace PDFGeneratorApp
+namespace APIFirst
 {
     static class Program
     {
@@ -14,7 +14,22 @@ namespace PDFGeneratorApp
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm());
+
+            // Mostrar ecrã de arranque
+            using (var splash = new SplashScreen())
+            {
+                Application.Run(splash);
+            }
+
+            // Mostrar ecrã de opções
+            using (var optionForm = new OptionForm())
+            {
+                if (optionForm.ShowDialog() == DialogResult.OK)
+                {
+                    // Iniciar o formulário principal
+                    Application.Run(new MainForm());
+                }
+            }
         }
     }
 }

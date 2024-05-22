@@ -1,4 +1,4 @@
-﻿using PDFGeneratorApp.Models;
+﻿using APIFirst.Models;
 using PdfSharp.Drawing;
 using PdfSharp.Fonts;
 using PdfSharp.Pdf;
@@ -7,7 +7,7 @@ using System.IO;
 using System.Xml.Linq;
 
 
-namespace PDFGeneratorApp.Controllers
+namespace APIFirst.Controllers
 {
     public class PdfController
     {

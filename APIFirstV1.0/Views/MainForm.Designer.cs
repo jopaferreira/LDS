@@ -1,4 +1,4 @@
-﻿namespace PDFGeneratorApp.Views
+﻿namespace APIFirst.Views
 {
     partial class MainForm
     {

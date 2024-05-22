@@ -1,9 +1,9 @@
-using PDFGeneratorApp.Controllers;
-using PDFGeneratorApp.Models;
+using APIFirst.Controllers;
+using APIFirst.Models;
 using System;
 using System.Windows.Forms;
 
-namespace PDFGeneratorApp.Views
+namespace APIFirst.Views
 {
     public partial class MainForm : Form
     {

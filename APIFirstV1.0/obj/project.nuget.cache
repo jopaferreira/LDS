@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LOqxweZRDCOKtMWe1ZPzSSYzm2vjVpGMQ2eckCXkbUCIIQdx+Pwrds0vSXW3Q7QhQhDnqUzDEdciU40hDIjHwQ==",
+  "dgSpecHash": "Zit4lHjA8vU5C7EWZcXH79IZk7vzWsud4axUf9lAAfD5/cLeUROBBxrGOS9uqyvb+wCr5KbL/OLwPD3dPOwo8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jopaf\\source\\repos\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\APIFirstV1.0.csproj",
+  "projectFilePath": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2º Semestre\\Laboratório de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5\\APIFirstV1.0\\APIFirst3.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jopaf\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\jopaf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
@@ -16,7 +16,7 @@
     "C:\\Users\\jopaf\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\jopaf\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
     "C:\\Users\\jopaf\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\jopaf\\.nuget\\packages\\pdfsharp\\6.1.0-preview-3\\pdfsharp.6.1.0-preview-3.nupkg.sha512",
+    "C:\\Users\\jopaf\\.nuget\\packages\\pdfsharp\\6.0.0\\pdfsharp.6.0.0.nupkg.sha512",
     "C:\\Users\\jopaf\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\jopaf\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\jopaf\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",

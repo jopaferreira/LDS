@@ -1,4 +1,4 @@
-﻿namespace PDFGeneratorApp.Models
+﻿namespace APIFirst.Models
 {
     public class PdfDocumentModel
     {

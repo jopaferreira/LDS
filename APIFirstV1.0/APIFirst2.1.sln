@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFGeneratorApp", "PDFGeneratorApp.csproj", "{1AE7DB29-A822-497A-AE20-E7926F8B54F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIFirst3.0", "APIFirst3.0.csproj", "{1AE7DB29-A822-497A-AE20-E7926F8B54F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
