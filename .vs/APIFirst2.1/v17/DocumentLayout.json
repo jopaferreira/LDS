@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|c:\\users\\jopaf\\onedrive - uab\\uab\\ano letivo 2023-24\\2\u00BA semestre\\laborat\u00F3rio de desenvolvimento de software\\c#\\em_curso\\lds-apifirst-equipa5-main\\apifirstv1.0\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|solutionrelative:views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|c:\\users\\jopaf\\onedrive - uab\\uab\\ano letivo 2023-24\\2\u00BA semestre\\laborat\u00F3rio de desenvolvimento de software\\c#\\em_curso\\lds-apifirst-equipa5-main\\apifirstv1.0\\models\\pdfdocumentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|solutionrelative:models\\pdfdocumentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|c:\\users\\jopaf\\onedrive - uab\\uab\\ano letivo 2023-24\\2\u00BA semestre\\laborat\u00F3rio de desenvolvimento de software\\c#\\em_curso\\lds-apifirst-equipa5-main\\apifirstv1.0\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|solutionrelative:controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|c:\\users\\jopaf\\onedrive - uab\\uab\\ano letivo 2023-24\\2\u00BA semestre\\laborat\u00F3rio de desenvolvimento de software\\c#\\em_curso\\lds-apifirst-equipa5-main\\apifirstv1.0\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|solutionrelative:splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|c:\\users\\jopaf\\onedrive - uab\\uab\\ano letivo 2023-24\\2\u00BA semestre\\laborat\u00F3rio de desenvolvimento de software\\c#\\em_curso\\lds-apifirst-equipa5-main\\apifirstv1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|c:\\users\\jopaf\\onedrive - uab\\uab\\ano letivo 2023-24\\2\u00BA semestre\\laborat\u00F3rio de desenvolvimento de software\\c#\\em_curso\\lds-apifirst-equipa5-main\\apifirstv1.0\\optionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|solutionrelative:optionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|c:\\users\\jopaf\\onedrive - uab\\uab\\ano letivo 2023-24\\2\u00BA semestre\\laborat\u00F3rio de desenvolvimento de software\\c#\\em_curso\\lds-apifirst-equipa5-main\\apifirstv1.0\\customfontresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|solutionrelative:customfontresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|solutionrelative:views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE7DB29-A822-497A-AE20-E7926F8B54F2}|APIFirst3.0.csproj|solutionrelative:splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SplashScreen.cs",
+              "DocumentMoniker": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "SplashScreen.cs",
+              "ToolTip": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\SplashScreen.cs",
+              "RelativeToolTip": "SplashScreen.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:08:31.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:08:29.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomFontResolver.cs",
+              "DocumentMoniker": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\CustomFontResolver.cs",
+              "RelativeDocumentMoniker": "CustomFontResolver.cs",
+              "ToolTip": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\CustomFontResolver.cs",
+              "RelativeToolTip": "CustomFontResolver.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:08:25.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfDocumentModel.cs",
+              "DocumentMoniker": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\Models\\PdfDocumentModel.cs",
+              "RelativeDocumentMoniker": "Models\\PdfDocumentModel.cs",
+              "ToolTip": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\Models\\PdfDocumentModel.cs",
+              "RelativeToolTip": "Models\\PdfDocumentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:08:13.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfController.cs",
+              "DocumentMoniker": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\Controllers\\PdfController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PdfController.cs",
+              "ToolTip": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\Controllers\\PdfController.cs",
+              "RelativeToolTip": "Controllers\\PdfController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:08:06.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\Views\\MainForm.cs",
+              "RelativeDocumentMoniker": "Views\\MainForm.cs",
+              "ToolTip": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\Views\\MainForm.cs",
+              "RelativeToolTip": "Views\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:08:23.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OptionForm.cs",
+              "DocumentMoniker": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\OptionForm.cs",
+              "RelativeDocumentMoniker": "OptionForm.cs",
+              "ToolTip": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\OptionForm.cs",
+              "RelativeToolTip": "OptionForm.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAUwN8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:08:27.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\Views\\MainForm.cs",
+              "RelativeDocumentMoniker": "Views\\MainForm.cs",
+              "ToolTip": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\Views\\MainForm.cs [Design]",
+              "RelativeToolTip": "Views\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:18:22.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SplashScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "SplashScreen.cs",
+              "ToolTip": "C:\\Users\\jopaf\\OneDrive - UAb\\UAb\\Ano Letivo 2023-24\\2\u00BA Semestre\\Laborat\u00F3rio de Desenvolvimento de Software\\C#\\em_curso\\LDS-APIfirst-Equipa5-main\\APIFirstV1.0\\SplashScreen.cs [Design]",
+              "RelativeToolTip": "SplashScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:19:33.613Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
